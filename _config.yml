@@ -7,9 +7,9 @@
 
 # Site settings
 title: Just Kidding
-description: '' # write a nice description for your blog
+description: 'just kidding like a kid ' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://justkidding.github.io' # the base hostname & protocol for your site http://www.example.com
+url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
 
